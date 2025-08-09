@@ -19,8 +19,10 @@ Easily add, complete, delete, and filter tasks with persistent storage using `lo
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)  
-*(Add your screenshot in the repo and rename to `screenshot.png`)*
+![App Screenshot](output/image1.png)  
+![App Screenshot](output/image2.png)  
+![App Screenshot](output/image3.png)  
+
 
 ---
 
