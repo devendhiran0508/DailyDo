@@ -24,8 +24,3 @@ Easily add, complete, delete, and filter tasks with persistent storage using `lo
 
 ---
 
-## 🚀 Demo
-You can try the app by opening the `index.html` file in your browser.  
-Or host it via GitHub Pages:  
-```bash
-# In your repo settings, enable GitHub Pages for the main branch
